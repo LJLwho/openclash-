@@ -137,7 +137,7 @@ listeners:
 proxy-providers:
   Huoshaoyun:
     type: http
-    url: "https://onehsy.yeniudsss.us/mj/v8/front/mysubnew?token=de1a8773aa9edc1bf3b6d0fd13ee3edd&timestamp=1769777331&sign=64e6e31d4ec62bc7b5e675e754cf5fda"
+    url: "https://onehsy.yeniudsss.us/mj/v8/front/mysubnew?token=de1a8773aa9edc1bf3b6d0fd13ee3edd&timestamp=1770046473&sign=05602ef7d0cbc2e64a73f4345c74c821"
     interval: 3600
     path: ./proxy_providers/hsy.yaml
     exclude-filter: "(?i)(流量|到期|重置|剩余|地址|官网|产品|平台|通知|公告|expire|traffic|reset|website)"
